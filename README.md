@@ -37,7 +37,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <br/>
 
-### Rodando o Back End (servidor)
+### Rodando o projeto
 ```bash
 # Clone este repositório
 $ git clone <git@github.com:ViniciusRodrigues10/x-men.git>
