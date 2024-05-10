@@ -59,7 +59,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br/>
 
 ### Resultado
-Acesse o site: [clique aqui}(https://viniciusrodrigues10.github.io/x-men/)
+Acesse o site: [clique aqui](https://viniciusrodrigues10.github.io/x-men/)
 
 <br/>
 
