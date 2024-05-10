@@ -8,18 +8,24 @@
 
 ### Tabela de conteúdos
 1. [Status do Projeto](#status-do-projeto)
-2. [Features](#features)
-3. [Pré-requisitos e como rodar a aplicação](#pré-requisitos-e-como-rodar-a-aplicação)
-4. [Tecnologias utilizadas](#tecnologias-utilizadas)
-5. [Resultado](#resultado)
-6. [Autor](#autor)
+2. [Contribuição](#contribuição)
+3. [Features](#features)
+4. [Pré-requisitos e como rodar a aplicação](#pré-requisitos-e-como-rodar-a-aplicação)
+5. [Tecnologias utilizadas](#tecnologias-utilizadas)
+6. [Resultado](#resultado)
+7. [Autor](#autor)
 
 <br/>
 
 ### Status do Projeto
 <h4 align=""> 
-	🚧  Study Async 🚀 Em andamento...  🚧
+	🚧  X-men 🚀 Concluido...  🚧
 </h4>
+
+<br/>
+
+### Contribuição:
+Contribuições são bem-vindas! Se você gostaria de adicionar mais personagens ou detalhes sobre os poderes existentes, sinta-se à vontade para enviar uma solicitação de pull.
 
 <br/>
 
