@@ -3,7 +3,6 @@
 <h1 align="center">X-men</h1>
 
 <p align="center">Este é um simples site que lista os poderes dos personagens do X-Men. Se você é fã dos mutantes mais famosos do mundo dos quadrinhos, este é o lugar certo para descobrir mais sobre os poderes de seus personagens favoritos.</p>
-
 <br/>
 
 ### Tabela de conteúdos
@@ -14,33 +13,28 @@
 5. [Tecnologias utilizadas](#tecnologias-utilizadas)
 6. [Resultado](#resultado)
 7. [Autor](#autor)
-
 <br/>
 
 ### Status do Projeto
 <h4 align=""> 
 	🚧  X-men 🚀 Concluido...  🚧
 </h4>
-
 <br/>
 
 ### Contribuição:
 Contribuições são bem-vindas! Se você gostaria de adicionar mais personagens ou detalhes sobre os poderes existentes, sinta-se à vontade para enviar uma solicitação de pull.
-
 <br/>
 
 ### Features
 - [x] Cards dos personagens
 - [x] Descrição dos personagens
 - [x] Imagens dos personagens 
-
 <br/>
 
 ### Pré-requisitos e como rodar a aplicação
 Antes de começar, você vai precisar ter instalado em sua máquina a seguinte ferramenta:
 [Git](https://git-scm.com). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 <br/>
 
 ### Rodando o projeto
@@ -55,12 +49,10 @@ $ git clone <git@github.com:ViniciusRodrigues10/x-men.git>
 As seguintes ferramentas foram usadas na construção do projeto:
 - [HTML5](https://ebaconline.com.br/blog/o-que-e-html5-seo)
 - [CSS3](https://www.lojadetemas.com.br/css3/#:~:text=CSS3%20%C3%A9%20a%20terceira%20mais,Temas%20loja%20Integrada%20e%20o)
-  
 <br/>
 
 ### Resultado
 Acesse o site: [clique aqui](https://viniciusrodrigues10.github.io/x-men/)
-
 <br/>
 
 ### Autor
